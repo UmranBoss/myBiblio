@@ -2,7 +2,7 @@
   <img src="/images/bookapple.png" width="100" alt="myBiblio Logo" />
 </p>
 
-# 📚 Bibliotheksverwaltungssoftware
+# 🎯 Bibliotheksverwaltungssoftware
 
 Dies ist eine **Java-basierte Bibliotheksverwaltungssoftware**, entwickelt mit **Eclipse**, **Swing** für die GUI und **MySQL** für die Datenbankanbindung. Das Projekt ist **noch in Entwicklung**.
 
